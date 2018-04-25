@@ -4,14 +4,10 @@
 #include "landyloader.h"
 
 
-int main()
-{
+int main() {
     return 0;
 }
 
 SC_HANDLE installDriver(LPCSTR drivername, LPCSTR binarypath) {
 
 }
-
-
-
